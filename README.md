@@ -3,7 +3,8 @@
 
 Alerts you in chat or with a screen pop-up if any mods are disabled in DMF. Scans on game load or via /check_disabled_mods.
 
-**Options:**
+<details>
+<summary><b>Mod Settings / Commands</b></summary>
 
 **General**
 - Notify on Game Load
@@ -12,5 +13,6 @@ Alerts you in chat or with a screen pop-up if any mods are disabled in DMF. Scan
 
 **Commands:**
 - `/check_disabled_mods` - Scans for what mods are disabled and notifies you.
+</details>
 
 🔗 **Links:** [Source Code](https://github.com/MaddyMarv/Disabled-mods-notifier) | [Nexus Mods Profile](https://www.nexusmods.com/profile/indicabunny) | [Support Me on Ko-fi](https://ko-fi.com/indicabunny)
