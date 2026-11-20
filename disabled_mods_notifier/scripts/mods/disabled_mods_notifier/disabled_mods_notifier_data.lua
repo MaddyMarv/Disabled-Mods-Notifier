@@ -23,7 +23,7 @@ return {
 				type = "checkbox",
 				default_value = true,
 				tab = "General",
-			}
-		}
-	}
+			},
+		},
+	},
 }
