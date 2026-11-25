@@ -15,4 +15,4 @@ Alerts you in chat or with a screen pop-up if any mods are disabled in DMF. Scan
 - `/check_disabled_mods` - Scans for what mods are disabled and notifies you.
 </details>
 
-🔗 **Links:** [Source Code](https://github.com/MaddyMarv/Disabled-mods-notifier) | [Nexus Mods Profile](https://www.nexusmods.com/profile/indicabunny) | [Support Me on Ko-fi](https://ko-fi.com/indicabunny)
+🔗 **Links:** [Source Code](https://github.com/MaddyMarv/Disabled-Mods-Notifier) | [Nexus Mods Profile](https://www.nexusmods.com/profile/indicabunny) | [Support Me on Ko-fi](https://ko-fi.com/indicabunny)

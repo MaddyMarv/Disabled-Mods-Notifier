@@ -12,4 +12,4 @@ Alerts you in chat or with a screen pop-up if any mods are disabled in DMF. Scan
 [/spoiler]
 
 [b]Links:[/b]
-[url=https://github.com/MaddyMarv/Disabled-mods-notifier]Source Code[/url] | [url=https://www.nexusmods.com/profile/indicabunny]Nexus Mods Profile[/url] | [url=https://ko-fi.com/indicabunny]Support Me on Ko-fi[/url]
+[url=https://github.com/MaddyMarv/Disabled-Mods-Notifier]Source Code[/url] | [url=https://www.nexusmods.com/profile/indicabunny]Nexus Mods Profile[/url] | [url=https://ko-fi.com/indicabunny]Support Me on Ko-fi[/url]
